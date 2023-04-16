@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "704010629815",
+    "project_id": "notification-notifee-exemple",
+    "storage_bucket": "notification-notifee-exemple.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704010629815:android:4379a11abd74ed702e9332",
+        "android_client_info": {
+          "package_name": "com.icode_mobile.notificationnotifeebackend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704010629815-nn4ftvcfp48bqfq4te0m4alk7lta88l0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.icode_mobile.notificationnotifeebackend",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "704010629815-kjft19762kbi2a7fl2a9q73k7nvcoo74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAha62jFi2fSJ_Ssd1ZTAA7IhpmJCY0ddI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704010629815-kjft19762kbi2a7fl2a9q73k7nvcoo74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
